@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#003049</color>
+    <color name="red">#D62828</color>
+    <color name="orange">#F77F00</color>
+    <color name="yellow">#FCBF49</color>
+    <color name="beige">#EAE2B7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="tree_dark">#132A13</color>
+    <color name="tree_middle">#31572C</color>
+    <color name="tree_light">#90A955</color>
+    <color name="textField">#f0b96e</color>
+</resources>

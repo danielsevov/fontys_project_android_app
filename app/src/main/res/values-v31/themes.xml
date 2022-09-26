@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.VistaApplication.Splashscreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/textField</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_vista</item>
+
+        <item name="postSplashScreenTheme">@style/Theme.VistaApplication.Main</item>
+    </style>
+</resources>

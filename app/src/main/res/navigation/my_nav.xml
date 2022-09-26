@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/mapFragment">
+
+    <fragment
+        android:id="@+id/mapFragment"
+        android:name="com.fontys.vistaapplication.MapsFragment"
+        android:label="fragment_maps"
+        tools:layout="@layout/fragment_maps" />
+    <fragment
+        android:id="@+id/addNewSpotFragment"
+        android:name="com.fontys.vistaapplication.AddNewSpotFragment"
+        android:label="fragment_add_new_spot"
+        tools:layout="@layout/fragment_add_new_spot" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.fontys.vistaapplication.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" />
+    <fragment
+        android:id="@+id/spotOverviewFragment"
+        android:name="com.fontys.vistaapplication.SpotOverviewFragment"
+        android:label="fragment_spot_overview"
+        tools:layout="@layout/fragment_spot_overview" />
+</navigation>

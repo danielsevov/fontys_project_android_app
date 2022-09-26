@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Vista</string>
+    <string name="password">Password</string>
+    <string name="vista">VISTA</string>
+    <string name="username">Username</string>
+    <string name="sign_in">Sign in</string>
+    <string name="no_account">Don\'t have an account yet?</string>
+    <string name="already_reg">Already have an account?</string>
+    <string name="sign_up">Sign up</string>
+    <string name="password2">Repeat Password</string>
+    <string name="email">E-mail</string>
+    <string name="login_failed">Login failed!</string>
+    <string name="password_incorrect">Password is incorrect</string>
+    <string name="invalid_email">Email is not valid</string>
+    <string name="invalid_password">Password is invalid</string>
+    <string name="password_required">Password is missing</string>
+    <string name="reg_ip_required">string</string>
+    <string name="name_required">string</string>
+    <string name="account_created">string</string>
+    <string name="email_already_exists">string</string>
+    <string name="passwords_do_not_match">Passwords do not match</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="map">Map</string>
+    <string name="spots">Spots</string>
+    <string name="add_new">Add new</string>
+    <string name="profile">Profile</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="spot_name">Spot name</string>
+    <string name="choose_one_type">Choose the type of sunset:</string>
+    <string name="aera_type">Choose type of terrain/area: (multiple possible):</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="moonrise">Moonrise</string>
+    <string name="moonset">Moonset</string>
+    <string name="coast">Coast</string>
+    <string name="nature">Nature</string>
+    <string name="mountains">Mountains</string>
+    <string name="urban">Urban</string>
+    <string name="rural">Rural</string>
+    <string name="lake">Lake</string>
+    <string name="submit">Submit</string>
+    <string name="create_spot_toast">Creating spot for your location...</string>
+    <string name="Cancel">Cancel</string>
+    <string name="open_location_settings">Open Location settings</string>
+    <string name="gps_network_not_enabled">Gps network not enabled</string>
+    <string name="problems_with_input">Please fill in all required fields.</string>
+    <string name="problem_with_gps">Problem with GPS</string>
+
+    <string name="take_picture">Take picture</string>
+
+    <string name="spot_to_close">Spot is too close to another spot</string>
+    <string name="submitbutton">submitButton</string>
+    <string name="msg_token_fmt">FMT</string>
+
+    <!--Spot overview -->
+    <string name="spot_up_voted">Successfully added an upvote for the spot!</string>
+    <string name="already_up_voted">You have already registered your vote!</string>
+    <string name="spot_updated">Successfully updated the spot information!</string>
+    <string name="image_uploaded">Successfully uploaded your image!</string>
+    <string name="image_to_far">You are not close enough to upload a picture to this spot!</string>
+    <string name="spot_visited">Successfully added the spot to your visit history!</string>
+    <string name="spot_visited_no_auth">Please login to register spots you have visited!</string>
+
+</resources>

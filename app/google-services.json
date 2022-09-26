@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "549626319545",
+    "project_id": "vista-application-firebase",
+    "storage_bucket": "vista-application-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549626319545:android:54e99b0c9e113283f00168",
+        "android_client_info": {
+          "package_name": "com.fontys.vistaapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549626319545-9scsr3rkbpat76gad8moep697f8pc8nj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtnxg9S_fYkkmGrdKOcswYQ2AVXu4XH18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549626319545-9scsr3rkbpat76gad8moep697f8pc8nj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

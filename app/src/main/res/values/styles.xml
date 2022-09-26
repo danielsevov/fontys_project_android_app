@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Headings -->
+    <style name="Heading">
+        <item name="android:fontFamily">@font/permanent_marker</item>
+        <item name="android:textSize">70sp</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Textfields -->
+    <style name="TextField">
+        <item name="android:fontFamily">@font/raleway_medium</item>
+        <item name="android:paddingStart">20dp</item>
+        <item name="android:backgroundTint">@color/textField</item>
+        <item name="android:background">@drawable/rounded_text_in</item>
+    </style>
+
+    <!-- Buttons -->
+    <style name="button">
+        <item name="android:backgroundTint">@color/blue</item>
+        <item name="android:background">@drawable/rounded_text_in</item>
+        <item name="android:fontFamily">@font/raleway_medium</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <!-- Links inside the app to other views -->
+    <style name="textLinks">
+        <item name="android:textSize">14sp</item>
+        <item name="android:fontFamily">@font/raleway_medium</item>
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Chips -->
+    <style name="chipChoice" parent="@style/Widget.MaterialComponents.Chip.Choice">
+        <item name="chipBackgroundColor">@color/background_color_chip_state_list</item>
+        <item name="android:textColor">@color/text_color_chip_state_list</item>
+        <item name="checkedIcon">@drawable/ic_check</item>
+        <item name="checkedIconVisible">true</item>
+    </style>
+
+</resources>
